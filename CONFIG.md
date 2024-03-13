@@ -14,6 +14,7 @@ showya-test-timeline
 - "BLUE PROTOCOL"
 - ブルプロ
 - ブループロトコル
+- 眼鏡
 
 # denyList
 
