@@ -18,6 +18,8 @@ showya-test-timeline
 
 # denyList
 
+- こちらの
+
 # safeMode
 
 false
