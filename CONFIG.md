@@ -1,5 +1,5 @@
 # recordName
-Showya-test
+showya-test
 
 # displayName
 showya-test-timeline
