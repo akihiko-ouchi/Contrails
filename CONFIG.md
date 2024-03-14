@@ -1,10 +1,12 @@
- 
 # recordName
 Showya-test
+
 # displayName
 showya-test-timeline
+
 # description
 showya-test-timeline
+
 # searchTerms
 - 'アズレン 赤城'
 - '艦これ 扶桑'
@@ -18,6 +20,7 @@ showya-test-timeline
 - "赤城\/司令官"
 
 # denyList
+- "こちらの"
 
 # safeMode
 
