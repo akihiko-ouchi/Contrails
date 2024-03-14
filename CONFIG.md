@@ -15,10 +15,11 @@ showya-test-timeline
 - ブルプロ
 - ブループロトコル
 - 眼鏡
+- "赤城/司令官"
 
 # denyList
 
-- こちらの
+- "こちらの"
 
 # safeMode
 
