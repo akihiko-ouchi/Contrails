@@ -43,7 +43,7 @@ showya-test-timeline
 > - did:plc:1234
 > - @spamspamspam.bsky.social
 
-- "こちらの"
+- こちらの
 
 # safeMode
 
